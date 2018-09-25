@@ -1,0 +1,60 @@
+.x
+{
+    color: coral;
+}
+.y
+{
+    color: #4920ff;
+}
+.z
+{
+    color: brown;
+}
+.p
+{
+    color: blueviolet;
+}
+#x
+{
+    color: darkgreen;
+}
+#y
+{
+    color: darkorange;
+}
+.m
+{
+    background-image: linear-gradient(to right,#ffd1cf,#d6e4ff,#cffffd);
+}
+.n
+{
+    background-image: linear-gradient(to right,#ffeee9,#e2ffd2,#ffefcc);
+}
+header
+{
+    background-color: blue;
+    padding: 30px;
+}
+.w
+{
+    text-align: center;
+    color: #e36bff;
+}
+section
+{
+    background-color: #f5ff7c;
+    width: 30%;
+    float: left;
+    height: 300px;
+    margin-right: 20px;
+}
+li
+{
+list-style-type: none;
+}
+.s
+{
+    color: #ff1fe2;
+    margin-left: 10px;
+    background-color: #acfdff;
+}
